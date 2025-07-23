@@ -1,0 +1,6 @@
+[submodule "Quiz_of_Kings_Frontend"]
+	path = Quiz_of_Kings_Frontend
+	url = https://github.com/ashkanchaji/Quiz_of_Kings_Frontend.git
+[submodule "Quiz_of_Kings_Backend"]
+	path = Quiz_of_Kings_Backend
+	url = https://github.com/ashkanchaji/Quiz_of_Kings_Backend.git
