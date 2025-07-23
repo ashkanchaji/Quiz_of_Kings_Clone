@@ -1,4 +1,4 @@
-# Quiz_of_Kings_Clone
+# Quiz of Kings Clone
 
 ### This is a clone of a papular Iranian game called Quiz of Kings made as the final project of Database Design course of the CE department at Amirkabir University of Technology.
 ### In this game player play head to head matches where they should answer 3 questions at each round and the winner is the player who won most round overall.
